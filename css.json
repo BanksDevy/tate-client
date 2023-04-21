@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Default",
+        "image": "",
+        "css": ""
+    },
+    {
+        "name": "Tate",
+        "image": "https://variety.com/wp-content/uploads/2022/12/tate-e1672354672579.webp",
+        "css": "@import url(https://cdn.jsdelivr.net/gh/tushar136/andrewtateu@master/message.css);"
+    }
+]

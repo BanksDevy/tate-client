@@ -1,0 +1,12 @@
+{
+    "flags": {
+        "uncap": false,
+        "angle": "default",
+        "webgl2": false
+    },
+    "twitch": {
+        "token": "",
+        "channel": ""
+    },
+    "loadScreen": ""
+}
