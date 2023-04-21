@@ -1,9 +1,6 @@
 # Tate Client 
 
-## Install all Node Modules
-```npm i``` 
-
-##Run
-
-```npx electron .``` 
+## Run The Client
+Install Node Modules ```npm i```  
+Run The Client ```npx electron .``` 
 
